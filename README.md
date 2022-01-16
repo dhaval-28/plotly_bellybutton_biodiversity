@@ -23,4 +23,4 @@ The final webpage has functional:
 
 Final Webpage looks like this :
 
-![Final Webpage](https://github.com/dhaval-28/Election_Analysis/blob/main/Analysis/Election_Results_Terminal.png)
+![Final Webpage](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/Images/BellyButtonDashboard_1.png)
