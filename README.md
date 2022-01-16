@@ -23,3 +23,4 @@ The final webpage has functional:
 
 Final Webpage looks like this :
 
+![Final Webpage](https://github.com/dhaval-28/Election_Analysis/blob/main/Analysis/Election_Results_Terminal.png)
