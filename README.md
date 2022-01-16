@@ -12,8 +12,8 @@ Deliverable 4: Customize the Dashboard
 ## Results
 
 **Files*
-** ![click here for : charts.js file](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/charts.js)
-** ![click here for : index.html](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/index.html)
+. ** ![click here for : charts.js file](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/charts.js)
+. ** ![click here for : index.html](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/index.html)
 
 The final webpage has functional 
 * 1. :Deliverable 1: Create a Horizontal Bar Chart
