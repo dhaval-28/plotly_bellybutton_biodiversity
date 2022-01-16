@@ -11,7 +11,12 @@ Deliverable 4: Customize the Dashboard
 
 ## Results
 
-**Drawback of this new Design*
-* 1. :** ![click here for : charts.js file](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/charts.js)
-* 2. :** ![click here for : index.html](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/index.html)
+**Files*
+** ![click here for : charts.js file](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/charts.js)
+** ![click here for : index.html](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/index.html)
 
+The final webpage has functional 
+* 1. :Deliverable 1: Create a Horizontal Bar Chart
+* 2. :Deliverable 2: Create a Bubble Chart
+* 3. :Deliverable 3: Create a Gauge Chart
+* 4. :Deliverable 4: Customize the Dashboard
