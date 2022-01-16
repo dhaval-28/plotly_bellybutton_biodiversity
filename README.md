@@ -21,7 +21,7 @@ The final webpage has functional:
 * 1. :Deliverable 1: Horizontal Bar Chart
 * 2. :Deliverable 2: Bubble Chart
 * 3. :Deliverable 3: Gauge Chart
-* 4. :Deliverable 4: Customize the Dashboard : with 3 changes (1) Add an image to the jumbotron (2) Add background color :whitesmoke  (3) Use a custom font with contrast for the colors.
+* 4. :Deliverable 4: Customize the Dashboard : with 3 changes (1) Add an image to the jumbotron (somehow does not show up on webserver but shows up on my desktop) (2) Add background color :whitesmoke  (3) Use a custom font with contrast for the colors.
 
 Final Webpage looks like this :
 
