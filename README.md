@@ -12,6 +12,6 @@ Deliverable 4: Customize the Dashboard
 ## Results
 
 **Drawback of this new Design*
-* 1. :** ![charts.js file](https://github.com/dhaval-28/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
-* 2. :** ![index.html](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/index.html)
+* 1. :** ![click here for : charts.js file](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/charts.js)
+* 2. :** ![click here for : index.html](https://github.com/dhaval-28/plotly_bellybutton_biodiversity/blob/main/index.html)
 
